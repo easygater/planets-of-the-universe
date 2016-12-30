@@ -7,7 +7,7 @@ Tags: Jekyll
 **The Planets of the universe:** [https://easygater.github.io/planets-of-the-universe/](https://easygater.github.io/planets-of-the-universe/)
 
 **The Jekyll tutorial:**
-Check out this great tutorial created by Thomas Bradley[https://www.youtube.com/user/acinteractivedesign] on his Youtube Channel or his home page [https://learn-the-web.algonquindesign.ca/topics/jekyll/#setting-up-jekyll](https://learn-the-web.algonquindesign.ca/topics/jekyll/#setting-up-jekyll) and walk through the exercises.
+Check out this great tutorial created by [Thomas Bradley](https://www.youtube.com/user/acinteractivedesign) on his Youtube Channel or his home page [https://learn-the-web.algonquindesign.ca/topics/jekyll/#setting-up-jekyll](https://learn-the-web.algonquindesign.ca/topics/jekyll/#setting-up-jekyll) and walk through the exercises.
 
 
 #### Why use Jekyll?
