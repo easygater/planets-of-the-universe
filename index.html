@@ -1,6 +1,20 @@
 ---
 layout: default
+titleAfter: Stellar astronomical objectsfrom the universe
+meta: Discover many planets from the universe both inside and outside our Solar System.
+priority: 1.0
 ---
 
 <h1>Planets of the Universe</h1>
-<p>Lots of planets in the universe!</p>
+<p>A planet is an stronomical object orbiting a star or stellar remnant that is massive enough to be rounded by its own gravity, is not massive enough to cause thermonuclear fusion, and has cleared its neighbouring regoin of planetesmals.</p>
+
+<h2>Types of Planets</h2>
+
+  <ol>
+    {% for planet in site.data.planet-types %}
+    <li>
+      <a href="{{site.baseurl}}/planets/{{planet.folder}}">{{ planet.title }}</a>
+      {{ planet.content | markdownify }}
+    </li>
+    {% endfor %}
+  </ol>
